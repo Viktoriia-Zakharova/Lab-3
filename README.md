@@ -7,7 +7,7 @@ This app works like a flashcard and is useful for learning
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src= https://user-images.githubusercontent.com/93546424/160325946-1e2b87a3-e66d-4e2d-a982-c74ff9c29ab0.gif width=200><br>
 
 
 ## Required
